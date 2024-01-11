@@ -1,5 +1,5 @@
 ---
-title: "Felix and Lumina Tree"
+title: "Felix and Lumina Tree changed"
 subtitle: "A single tree, standing tall and majestic, seemed to possess a mysterious aura that attracted the curious."
 date: "2023-07-08"
 featured_image: "/images/tall-tree-potter.jpeg"
